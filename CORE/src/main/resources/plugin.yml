@@ -1,0 +1,4 @@
+name: Core
+version: 0.1
+main: me.borawski.core.Core
+description: Core system
