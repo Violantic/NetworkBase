@@ -24,6 +24,10 @@ public class NetworkDatabase {
             this.userRepository = new UserRepository(User.class, datastore);
         } catch (UnknownHostException e) {
             e.printStackTrace();
+            System.out.println("-------------------------------");
+            System.out.println("Couldn't connect, this will only");
+            System.out.println("work on a local MongoDB host");
+            System.out.println("-------------------------------");
         }
     }
 
