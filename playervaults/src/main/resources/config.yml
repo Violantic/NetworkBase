@@ -1,0 +1,16 @@
+sql-connection-refresh: 30
+
+# Host URL for database
+host: localhost
+
+# Table that will be auto created and used for plugin
+table: network
+
+# Name of default db
+name: mcc
+
+# Enough said
+user: root
+
+# Enough said
+pass: password

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
       <module fileurl="file://$PROJECT_DIR$/CORE/CORE.iml" filepath="$PROJECT_DIR$/CORE/CORE.iml" />
       <module fileurl="file://$PROJECT_DIR$/Network.iml" filepath="$PROJECT_DIR$/Network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playervaults/playervaults.iml" filepath="$PROJECT_DIR$/playervaults/playervaults.iml" />
     </modules>
   </component>
 </project>

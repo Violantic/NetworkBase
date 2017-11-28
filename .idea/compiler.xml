@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="CORE" />
+        <module name="playervaults" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
       <module name="API" target="1.5" />
       <module name="CORE" target="1.5" />
       <module name="Network" target="1.5" />
+      <module name="playervaults" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
